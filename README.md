@@ -1,4 +1,4 @@
-
+'''
 ├── client/                # Frontend React application
 │   ├── src/
 │   │   ├── components/   # Reusable UI components
